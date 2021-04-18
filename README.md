@@ -6,4 +6,5 @@
 - [x] aula 3 - classes e objetos
 - [x] aula 4 - passagem de parâmetros
 - [x] aula 4.1 - sobrecarga de métodos
-- [x] aula 5 - construtores e encapsulamento
+- [x] aula 5 - construtores
+- [x] aula 5.1 - encapsulamento 
