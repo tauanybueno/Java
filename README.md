@@ -8,4 +8,4 @@
 - [x] aula 4.1 - sobrecarga de métodos
 - [x] aula 5 - construtores
 - [x] aula 5.1 - encapsulamento 
-- [x] aula 6.1 - vetores e coleções 
+- [x] aula 6 - vetores e coleções 
