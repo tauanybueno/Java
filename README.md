@@ -9,3 +9,10 @@
 - [x] aula 5 - construtores
 - [x] aula 5.1 - encapsulamento 
 - [x] aula 6 - vetores e coleções 
+- [x] aula 7 - associação entre classes
+- [x] aula 8 - herança e polimorfismo
+- [x] aula 9 - classes abstratas
+- [x] aula 10 - interface
+- [x] aula 12 - atributos e métodos de classe
+- [x] aula 13 - tratamento de exceções
+- [x] projeto - chatbot    
